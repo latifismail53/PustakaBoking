@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+.jumbotron{
+ background-image:url('../../img/jumbotron-bg.jpg');
+ background-size: cover;
+ height: 610px;
+ width: auto;
+ text-align: center;
+}
+
+.jumbotron .display-4 {
+color: honeydew;
+text-align: center;
+margin-top: 150px;
+}
+
+.jumbotron p{
+    color: honeydew;
+    font-size: 20px;
+
+}
+.navbar .btn{
+    border-radius: 20px;
+    font-size: 15px;
+}
+.navbar a{
+    text-shadow: lightslategrey;
+}
